@@ -1,4 +1,4 @@
-keylic = 'OKX-4EDS-37E3-7FF4-FF44'
+
 symbolWithdraw = "USDT"      # Символ вывода валюты
 network = "Arbitrum One"     # Сеть в которой выводим
 
